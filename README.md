@@ -17,8 +17,8 @@ A Python script to download **audio from a YouTube playlist** and convert it to 
 ### 1. Clone the Repository (Optional)
 
 ```bash
-git clone https://github.com/ShriHax-21/yt-playlist-audio-downloader.git
-cd yt-playlist-audio-downloader
+git clone https://github.com/ShriHax-21/yt-playlist-audio_downloader.git
+cd yt-playlist-audio_downloader
 ```
 
 ### 2. Create Virtual Environment (Recommended)
